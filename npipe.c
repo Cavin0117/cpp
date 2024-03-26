@@ -1,4 +1,4 @@
-#include <54func.h>
+#include <func.h>
 int main(int argc, char *argv[])
 {
     int fds1[2], fds2[2];
